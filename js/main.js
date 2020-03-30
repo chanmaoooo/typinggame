@@ -2,11 +2,21 @@
 
 {
   const words = [
-    "apple",
-    "sky",
-    "blue",
-    "middle",
-    "set",
+    "Internet", "message", "e-mail", "story", "culture",
+    "floor", "clock", "newspaper", "dream", "future",
+    "peace", "drum", "news", "club", "history",
+    "left", "same", "global", "heavy", "polite",
+    "strange", "major", "middle", "each", "sleepy",
+    "bright", "alone", "careful", "international", "local",
+    "was", "were", "ask", "carry", "follow",
+    "move", "send", "ride", "drive", "travel",
+    "wear", "buy", "hold", "join", "sleep",
+    "concert", "hour", "minute", "mountain", "light",
+    "sky", "fire", "space", "star", "sun",
+    "water", "plant", "rock", "environment", "matter",
+    "doctor", "musician", "cherry", "salad", "bread",
+    "fruit", "weather", "cloud", "snow", "rain",
+    "cold", "warm", "weekend", "noon", "end",
   ];
 
   let word;
